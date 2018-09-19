@@ -1,4 +1,4 @@
-# berlin-para-mexicanos
+# Berlín para mexicanos
 
 ## Despensa
 - http://www.chiliundpaprika.de/
