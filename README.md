@@ -9,3 +9,6 @@
 - [Chaparro (tacos)](https://goo.gl/maps/uiAjvYV2MhP2)
 - [La lucha](http://laluchaberlin.com/)
 - [Santa Cantina](https://www.santaberlin.com/santa-cantina/)
+
+## Ver también
+- [@gabrielfalcao/berlin-para-brasileiros](https://github.com/gabrielfalcao/berlin-para-brasileiros)
