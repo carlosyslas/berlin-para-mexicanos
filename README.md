@@ -1,7 +1,9 @@
 # Berlín para mexicanos
 
 ## Despensa
-- http://www.chiliundpaprika.de/
+- [Chilli & Paprika](http://www.chiliundpaprika.de/)
+- [Tortillería Tlaxcalli](http://www.tlaxcalli.de/home)
+- [Tortillería Cintli](https://www.facebook.com/cintliberlin)
 
 ## Restaurantes
 - [Sandunga (tacos, mezcal)](https://goo.gl/maps/YdLb4g7Atxo)
