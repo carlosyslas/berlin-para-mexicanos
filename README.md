@@ -15,6 +15,8 @@
 ## Médicos que hablan español
 
 - [Lista de la embajada de México en Alemania](https://embamex.sre.gob.mx/alemania/index.php/es/proteccion-consular/asistencia-medica)
+- [Lista de Berlín en Español](http://berlinenespanol.net/guia-medica-berlin-pagina/)
+- [Buscador aerzte-berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php)
 
 ## Ver también
 - [@gabrielfalcao/berlin-para-brasileiros](https://github.com/gabrielfalcao/berlin-para-brasileiros)
