@@ -18,5 +18,9 @@
 - [Lista de Berlín en Español](http://berlinenespanol.net/guia-medica-berlin-pagina/)
 - [Buscador aerzte-berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php)
 
+## Cine en inglés
+- [Cinestar en Potsdamer Platz](https://www.google.de/maps/place/CineStar+Original+and+IMAX/@52.5098714,13.3705531,17z/data=!4m5!3m4!1s0x47a851c997fb2403:0x92851492ab36400c!8m2!3d52.5098682!4d13.3727419) [https://www.cinestar.de](https://www.cinestar.de/kino-berlin-imax-im-sony-center)
+- Yorck Kinogruppe [https://yorck.de](https://yorck.de)
+
 ## Ver también
 - [@gabrielfalcao/berlin-para-brasileiros](https://github.com/gabrielfalcao/berlin-para-brasileiros)
