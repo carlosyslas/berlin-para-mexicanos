@@ -14,6 +14,7 @@
 - [Chaparro (tacos)](https://goo.gl/maps/uiAjvYV2MhP2)
 - [La lucha](http://laluchaberlin.com/)
 - [Santa Cantina](https://www.santaberlin.com/santa-cantina/)
+- [Ingrata Cocina Mexicana](https://www.facebook.com/IngrataMexicanGastronomy/)
 
 ## Médicos que hablan español
 
