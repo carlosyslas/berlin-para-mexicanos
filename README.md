@@ -8,7 +8,7 @@
 - [Súper Ibérico](http://superiberico.de)
 
 ## Restaurantes
-- [Los Trompiras](http://lostrompiras.de/)
+- [Los Trómpiras](http://lostrompiras.de/)
 - [Sandunga (tacos, mezcal)](https://goo.gl/maps/YdLb4g7Atxo)
 - [María bonita (Chilaquiles)](https://goo.gl/maps/gDvaNDs3CyK2)
 - [Chaparro (tacos)](https://goo.gl/maps/uiAjvYV2MhP2)
