@@ -4,6 +4,7 @@
 - [Chilli & Paprika](http://www.chiliundpaprika.de/)
 - [MexGrocer (en linea)](https://www.mexgrocer.com.de/)
 - [Las paisanas (en linea)](http://www.laspaisanas.de/)
+- [La tortilla (en linea)](https://www.latortilla.de/en/)
 - [Tortillería Tlaxcalli](http://www.tlaxcalli.de/home)
 - [Tortillería Cintli](https://www.facebook.com/cintliberlin)
 - [Súper Ibérico](http://superiberico.de)
